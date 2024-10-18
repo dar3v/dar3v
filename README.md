@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dar3v
+- 👀 I’m interested in Software Dev, Web Dev, FOSS, Linux, Linux Ricing, Linux Desktops, Particularly Arch Linux & NixOS
+- 🌱 I'm still a newb, learning basic programming (C# & C/C++)
+- 💪 Learning to become the best programmer to ever live !1!1!!

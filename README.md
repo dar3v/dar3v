@@ -6,6 +6,6 @@
 # stuff that i am currently learning
 - C#
 - C/C++
+- html + css + javascript
 - shell scripting (bash)
 - nix (NixOS configuration)
-- html + css + javascript

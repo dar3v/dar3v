@@ -7,5 +7,4 @@
 - C#
 - C/C++
 - html + css + javascript
-- shell scripting (bash)
 - nix (NixOS configuration)

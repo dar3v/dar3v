@@ -5,6 +5,6 @@
 
 # stuff that i am currently learning
 - C#
-- C/C++
-- html + css + javascript
+- javascript
+- html + css
 - nix (NixOS configuration)

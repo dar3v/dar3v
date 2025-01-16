@@ -13,4 +13,5 @@
 - C#
 - javascript
 - html + css
-- nix (NixOS configuration)
+- nix
+- c
